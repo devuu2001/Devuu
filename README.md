@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Dev Limbachia</h1>
+<h1 align="left">Hi 👋, I'm Dev Limbachia</h1>
 <h3 align="center">a passionate Low-Code/No-Code Developer dedicated to simplifying software development and empowering individuals and businesses to bring their ideas to life efficiently.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devuu2001&label=Profile%20views&color=0e75b6&style=flat" alt="devuu2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devuu2001" alt="devuu2001" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning through a dedicated program at Humber College.**
+🚀 What I Do:
 
-- 🤝 I’m looking for help with **collaboration on projects that leverage low-code/no-code solutions to make a difference.**
+Develop robust, scalable solutions using leading low-code and no-code platforms.
+Empower teams and individuals by conducting workshops and creating educational content on low-code/no-code development.
 
-- Expertise in platforms such as **Outsystems, Mendix, Postman, etc.**
+Collaborate on projects aimed at solving real-world problems through simplified code.
+
+🛠 Tech Stack:
+
+Expertise in platforms such as Outsystems, Mendix, AWS, Azure, etc.
+Familiar with integrating APIs and leveraging cloud services to enhance app functionality and scalability.
+Continuous learner of new platforms and technologies in the low-code/no-code ecosystem.
+🌱 I'm Currently:
+
+Looking for collaboration on projects that leverage low-code/no-code solutions to make a difference.
+Exploring [mention any new platform you're learning] to expand my toolkit.
+Sharing my knowledge and learning from the community through GitHub.
+📫 Get in Touch:
+
+Feel free to reach out for collaborations, questions, or just to say hi. I'm always open to discussing new projects or ideas in the low-code/no-code space.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
