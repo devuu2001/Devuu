@@ -20,7 +20,7 @@ Continuous learner of new platforms and technologies in the low-code/no-code eco
 🌱 I'm Currently:
 
 Looking for collaboration on projects that leverage low-code/no-code solutions to make a difference.
-Exploring [mention any new platform you're learning] to expand my toolkit.
+Exploring new technologies to expand my toolkit.
 Sharing my knowledge and learning from the community through GitHub.
 📫 Get in Touch:
 
