@@ -17,11 +17,13 @@ Collaborate on projects aimed at solving real-world problems through simplified 
 Expertise in platforms such as Outsystems, Mendix, AWS, Azure, etc.
 Familiar with integrating APIs and leveraging cloud services to enhance app functionality and scalability.
 Continuous learner of new platforms and technologies in the low-code/no-code ecosystem.
+
 🌱 I'm Currently:
 
 Looking for collaboration on projects that leverage low-code/no-code solutions to make a difference.
 Exploring new technologies to expand my toolkit.
 Sharing my knowledge and learning from the community through GitHub.
+
 📫 Get in Touch:
 
 Feel free to reach out for collaborations, questions, or just to say hi. I'm always open to discussing new projects or ideas in the low-code/no-code space.
